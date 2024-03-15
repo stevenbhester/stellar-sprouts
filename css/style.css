@@ -187,7 +187,7 @@ header {
     font-size: 5em;
     margin-bottom: 0.2em;
     z-index: 5;
-    color: 'light grey'; /* Dark Gray Text */
+    color: #D3D3D3; /* Dark Gray Text */
 }
 
 .hero-content h2 {
