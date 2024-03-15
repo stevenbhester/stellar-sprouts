@@ -186,7 +186,7 @@ header {
     font-size: 5em;
     margin-bottom: 0.2em;
     z-index: 5;
-    color: #AD0AFD; /* Dark Gray Text */
+    color: #4A4A4A; /* Dark Gray Text */
 }
 
 .hero-content h2 {
@@ -194,7 +194,7 @@ header {
     font-size: 2em;
     margin-bottom: 0.5em;
     z-index: 5;
-    color: #cc69fd; /* Dark Gray Text */
+    color: #4A4A4A; /* Dark Gray Text */
 }
 
 .hero-content p {
