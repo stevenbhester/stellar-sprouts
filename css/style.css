@@ -5,7 +5,8 @@
     src: url("../stellar-sprouts/fonts/Blanka.otf") format('truetype');
     font-weight: bold;
     font-style: normal;
-}@font-face {
+}
+@font-face {
     font-family: Manifesto;
     src: url("../stellar-sprouts/fonts/Manifesto.ttf") format('truetype');
     font-weight: bold;
