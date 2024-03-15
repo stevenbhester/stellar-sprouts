@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@font-face {
+    font-family: Blanka;
+    src: url("../SubSkipper/fonts/Blanka.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}@font-face {
+    font-family: Manifesto;
+    src: url("../SubSkipper/fonts/Blanka.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+
 
 body {
     font-family: 'Josefin Sans', 'Cabin Sketch', 'Helvetica Neue', Arial, sans-serif;
@@ -183,7 +197,7 @@ header {
 }
 
 .hero-content h1 {
-    font-family: 'Cabin Sketch';
+    font-family: 'Blanka', 'Cabin Sketch';
     font-size: 5em;
     margin-bottom: 0.2em;
     z-index: 5;
@@ -191,7 +205,7 @@ header {
 }
 
 .hero-content h2 {
-    font-family: 'Josefin Sans';
+    font-family: 'Manifesto', 'Josefin Sans';
     font-size: 2em;
     margin-bottom: 0.5em;
     z-index: 5;
