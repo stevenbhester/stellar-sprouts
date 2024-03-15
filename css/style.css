@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 @font-face {
     font-family: Blanka;
-    src: url("../SubSkipper/fonts/Blanka.otf") format('truetype');
+    src: url("../stellar-sprouts/fonts/Blanka.otf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }@font-face {
     font-family: Manifesto;
-    src: url("../SubSkipper/fonts/Manifesto.ttf") format('truetype');
+    src: url("../stellar-sprouts/fonts/Manifesto.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
