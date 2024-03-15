@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 @font-face {
     font-family: Blanka;
-    src: url("../SubSkipper/fonts/Blanka.ttf") format('truetype');
+    src: url("../SubSkipper/fonts/Blanka.otf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }@font-face {
     font-family: Manifesto;
-    src: url("../SubSkipper/fonts/Blanka.ttf") format('truetype');
+    src: url("../SubSkipper/fonts/Manifesto.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -179,7 +179,7 @@ header {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(255, 255, 255, 0.2); /* Semi-transparent white overlay */
+    background: rgba(0, 0, 0, 0.2); /* Semi-transparent white overlay */
     z-index: 2;
 }
 
